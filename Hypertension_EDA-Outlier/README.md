@@ -21,3 +21,7 @@ List of all libraries and dependencies required to run this notebook:
 - Thalach (Maximum heart rate achieved)
 - Exang (Exercise induced angina)
 - Oldpeak (ST depression induced by exercise relative to rest)
+- Slope (Slope of peak exercise ST segment)
+- Ca (Number of major vessels)
+- Thal (3: Normal; 6: Fixed defect; 7: Reversable defect)
+- Target (Whether the patient has hypertension (1) or not (0))
